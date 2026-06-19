@@ -1,0 +1,11 @@
+Algoritmo,Computado,Grafo usado,Complexidade teórica,Resultado resumido
+BFS,Sim,Grafo direcionado tratado,O(V + E),visited_count=129; max_level=2
+DFS,Sim,Grafo direcionado tratado,O(V + E),visited_count=129
+Eulerianidade direcionada,Sim,Grafo direcionado tratado,O(V + E),type=Não euleriano; reason=Os vértices com grau positivo não pertencem a uma única componente fracamente conexa.
+Eulerianidade não direcionada,Sim,Grafo não direcionado tratado,O(V + E),type=Não euleriano; reason=O grafo não é conexo considerando os vértices com grau positivo.
+Dijkstra,Sim,Grafo direcionado ponderado,O((V + E) log V),reachable_count=129; max_distance=1394631.0
+Bellman-Ford,Sim,Grafo direcionado ponderado,O(VE),reachable_count=129; max_distance=1394631.0; has_negative_cycle=False
+Floyd-Warshall,Sim,Maior componente conexa não direcionada,O(V³),nodes_count=157; finite_pairs=24492; max_distance=3870439.0; average_distance=119591.49567205617
+Tarjan,Sim,Grafo direcionado tratado,O(V + E),scc_count=264; largest_scc_size=52
+Kruskal,Sim,Maior componente conexa não direcionada,O(E log E),mst_edges=156; mst_weight=7707156.0
+Prim,Sim,Maior componente conexa não direcionada,O(E log V),mst_edges=156; mst_weight=7707156.0; visited_count=157

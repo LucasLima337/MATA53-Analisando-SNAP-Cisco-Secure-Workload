@@ -1,0 +1,2 @@
+maior_componente_tamanho,maior_componente_fracao_original,numero_componentes,distancia_media_maior_componente,diametro_maior_componente,vertices_isolados,fracao_isolados_restantes,tipo_remocao,vertices_removidos
+8,0.050955414012738856,134,1.9642857142857142,4,130,0.87248322147651,mais_centrais_por_grau,"102,54,64,67,89,233,271,284"

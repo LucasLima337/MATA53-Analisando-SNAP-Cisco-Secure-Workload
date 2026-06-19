@@ -1,0 +1,8 @@
+metrica,antes_remocao,remocao_aleatoria_media,remocao_aleatoria_desvio_padrao,remocao_5_porcento_mais_centrais
+maior_componente_tamanho,157.0,138.96,30.97395877909344,8.0
+maior_componente_fracao_original,1.0,0.8850955414012739,0.19728636165027666,0.050955414012738856
+numero_componentes,1.0,9.84,27.444459684004325,134.0
+distancia_media_maior_componente,2.5859056018291686,2.572869594661346,0.04100184423018279,1.9642857142857142
+diametro_maior_componente,7.0,6.64,0.8270922757788646,4.0
+vertices_isolados,0.0,8.72,27.18045516280297,130.0
+fracao_isolados_restantes,0.0,0.05852348993288591,0.18241916216646292,0.87248322147651
